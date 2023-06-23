@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/worldmaker18349276/omega.js#readme",
   "dependencies": {
-    "nearley": "^2.19.0"
+    "nearley": "^2.20.1"
   }
 }
